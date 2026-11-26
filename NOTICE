@@ -1,0 +1,8 @@
+Approov Package for iOS
+Copyright (c) 2016-present, Approov Ltd.
+
+This package is licensed under the MIT License. See LICENSE.
+
+This package uses the Approov SDK (approov-ios-sdk). The Approov SDK is not part of this package and is not covered by the MIT License. It is proprietary software of Approov Ltd, and you can use it only under the Approov terms (https://approov.io/terms) or your written agreement with Approov.
+
+This package uses swift-http-structured-headers (https://github.com/apple/swift-http-structured-headers), licensed under the Apache License 2.0.
